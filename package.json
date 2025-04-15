@@ -1,0 +1,12 @@
+{
+  "name": "node-app",
+  "version": "2.0.0",
+  "description": "Simple Node.js app for SIT737 Kubernetes deployment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
